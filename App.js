@@ -7,6 +7,9 @@ const Stack = createNativeStackNavigator();
 
 
 //question data
+//Question 1: "4" 
+//Question 2: "Red" and "Yellow"
+//Question 3: "True"
 const DATA = [
  {
   prompt: "What is 2 + 2?",
